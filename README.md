@@ -37,5 +37,7 @@ Images:
 
 ![Screenshot (460)](https://user-images.githubusercontent.com/94704551/155894227-45c0caca-fc5d-4dc7-8df5-9ac920fa9289.png)
 
+![Screenshot (469)](https://user-images.githubusercontent.com/94704551/155894530-e336582f-42f2-4794-86c6-d548ba53fd9b.png)
+
 Video link:
 https://www.loom.com/share/a1492df18b594b8ba9ade936f40b3c30
